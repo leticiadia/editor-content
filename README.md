@@ -1,7 +1,7 @@
 <h2>Editor-Content</h2>
 
 ## 🖼️ Preview
-![editor-content](/assets/img/editorPreview.png);
+![editor-content](/assets/img/editorPreview.png)
 
 ## 💻 Description
 <p>The editor-content was created with the aim of testing the Editor.js library.</p>
